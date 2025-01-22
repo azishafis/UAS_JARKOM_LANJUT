@@ -1,4 +1,6 @@
-Topologi jaringan yang ditampilkan pada gambar menunjukkan desain jaringan yang menghubungkan tiga kampus: **Kampus Citra Raya (CR)**, **Kampus Kebon Jeruk (KJ)**, dan **Kampus Harapan Indah (KHI)**. Berikut adalah penjelasan rinci dari topologi tersebut:
+##Penjelasan Topologi
+
+jaringan yang menghubungkan tiga kampus: **Kampus Citra Raya (CR)**, **Kampus Kebon Jeruk (KJ)**, dan **Kampus Harapan Indah (KHI)**. Berikut adalah penjelasan rinci dari topologi tersebut:
 
 ### 1. **Koneksi Antar Kampus melalui Internet**
    - Setiap kampus memiliki **Router** dengan IP publik masing-masing untuk membangun koneksi antar lokasi melalui **tunnel VPN**:
