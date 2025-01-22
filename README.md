@@ -1,4 +1,4 @@
-##Penjelasan Topologi
+## Penjelasan Topologi
 
 jaringan yang menghubungkan tiga kampus: **Kampus Citra Raya (CR)**, **Kampus Kebon Jeruk (KJ)**, dan **Kampus Harapan Indah (KHI)**. Berikut adalah penjelasan rinci dari topologi tersebut:
 
