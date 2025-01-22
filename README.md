@@ -53,5 +53,3 @@ jaringan yang menghubungkan tiga kampus: **Kampus Citra Raya (CR)**, **Kampus Ke
    - **Segmentasi Jaringan:** VLAN memisahkan lalu lintas data berdasarkan pengguna atau fungsi.
    - **Skalabilitas:** Setiap kampus dapat menambah perangkat tanpa mengganggu konektivitas antar kampus.
    - **Akses Wireless:** Tersedia di setiap kampus melalui access point.
-
-Topologi ini mencerminkan jaringan yang efisien untuk institusi pendidikan dengan beberapa lokasi terpisah. Jika Anda memerlukan detail tambahan atau konfigurasi spesifik, silakan beri tahu!
